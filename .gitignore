@@ -1,0 +1,8 @@
+# Sécurité
+.env
+
+# Node
+/node_modules
+
+# Images
+/images
